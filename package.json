@@ -1,0 +1,15 @@
+{
+  "name": "bonuscouponapp",
+  "version": "1.0.0",
+  "description": "bonus coupon application",
+  "main": "app.js",
+  "dependencies": {
+    "whatwg-fetch": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cleo roti",
+  "license": "ISC"
+}
